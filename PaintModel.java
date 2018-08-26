@@ -1,5 +1,3 @@
-package ca.utoronto.utm.paint;
-
 import java.util.Stack;
 import java.awt.Graphics2D;
 import java.util.ArrayList;
