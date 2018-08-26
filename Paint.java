@@ -1,5 +1,3 @@
-package ca.utoronto.utm.paint;
-
 import javax.swing.JFrame;
 
 public class Paint {
