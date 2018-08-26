@@ -1,5 +1,3 @@
-package ca.utoronto.utm.paint;
-
 public class LineManipulatorStrategy implements ShapeManipulatorStrategy {
 
 	/* (non-Javadoc)
