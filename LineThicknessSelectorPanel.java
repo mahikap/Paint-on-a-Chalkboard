@@ -1,5 +1,3 @@
-package ca.utoronto.utm.paint;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
